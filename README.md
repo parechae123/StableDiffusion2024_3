@@ -1,19 +1,23 @@
 # StableDiffusion2024_3
 Stable diffusion 수업 정리 자료
 
+### 필수 설치 목록 
++ Python 3.10.6 설치 필요
++ Git64Bit 설치 필요
+
+
+
+
+
+set COMMANDLINE_ARGS=--skip-torch-cuda-test --precision full --no-half
 
 
 
 
 
 
-
-
-
-
-
-
-
+# 마크다운 실습
++ VisualStudio Extention에서 `Markdown Preview Github Styling` 다운로드
 
 
 MarkDown 내용 정리
