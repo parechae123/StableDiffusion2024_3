@@ -4,7 +4,8 @@ Stable diffusion 수업 정리 자료
 ### 필수 설치 목록 
 + Python 3.10.6 설치 필요
 + Git64Bit 설치 필요
-
++ https://github.com/DominikDoom/a1111-sd-webui-tagcomplete 프롬프트 자동완성 제안, 스테이블 디퓨전 익스텐션에서 giturl로 설치
++ 
 
 
 
