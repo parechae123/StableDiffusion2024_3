@@ -89,3 +89,23 @@ Negative prompt
 
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2277327246, Size: 512x512, Model hash: cbfba64e66, Model: counterfeitV30_v30, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.75, Mask blur: 4, Version: v1.7.0
 ----
+## Inpaint(ImageToImage) Before
+
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/ITIBefore.png?raw=true)
+
+## Inpaint(ImageToImage) After
+
+
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/ITIAfter.png?raw=true)
+parameters
+prompt
+```
+masterpiece, high_quality, super_detail, CG_game_cg,  a woman in a red hat and black skirt, hand
+```
+Negative prompt
+```
+(painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, artist name, (worst quality, low quality:1.4), bad anatomy, watermark, signature, text, logo, missing body
+```
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 471061200, Size: 354x532, Model hash: 00fea6886c, Model: fantasyBlend_v10, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.4, Mask blur: 4, Version: v1.7.0
+----
