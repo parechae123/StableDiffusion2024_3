@@ -109,3 +109,11 @@ Negative prompt
 
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 471061200, Size: 354x532, Model hash: 00fea6886c, Model: fantasyBlend_v10, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.4, Mask blur: 4, Version: v1.7.0
 ----
+
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/LineArtBefore.jpg?raw=true)
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/LineArtAfter.png?raw=true)
+
+----
+
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/LineArt2Before.jpg?raw=true)
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/LineArt2After.png?raw=true)
