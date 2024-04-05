@@ -8,6 +8,6 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2725415013, Size: 512x5
 
 ---
 
-![image]
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/ControlNet/ScribbleBefore.png?raw=true)
 
-![image]
+![image](https://github.com/parechae123/StableDiffusion2024_3/blob/main/ControlNet/ScribbleAfter.png?raw=true)
